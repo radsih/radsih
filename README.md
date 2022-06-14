@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Radish's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=Radish GitHub ID&show_icons=true&count_private=true&theme=gotham)
+![萝卜不好吃 Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=radish&show_icons=true&count_private=true&theme=gotham)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=radish)](https://github.com/anuraghazra/github-readme-stats)
