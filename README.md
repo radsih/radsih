@@ -1,4 +1,8 @@
 ### Hi there 👋
+![Metrics](https://metrics.lecoq.io/radish?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FShanghai)
+![Ha Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=radish&show_icons=true&count_private=true&theme=gotham)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=radish)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **radsih/radsih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +18,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![萝卜不好吃 Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=radish&show_icons=true&count_private=true&theme=gotham)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=radish)](https://github.com/anuraghazra/github-readme-stats)
