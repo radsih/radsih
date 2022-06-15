@@ -1,18 +1,16 @@
-### Hi there 👋,I'm tntaxin
+### 脑子是个好东西 👋
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=radsih&show_icons=true&theme=radical" width="380">
 
-- 🔭 甲方划水安全工程师
+- 🔭 甲方荣获卷王的男人
 - 👯 Java、PHP瞎🐔er审计
 - ⛳️ 面向Google编程
 - 🤔 互联网垃圾文学制造者
-- 😯 被人骂过“不要以为你长得帅就了不起”的男人
 - 🏊 互联网弄潮儿
 - 💗 激光雨、花手爱好者
 
 座右铭：麻了、run
-
-人生忠告：深思熟虑，比啥都来的快。
+人生忠告：**深思熟虑**，比啥都来的快。
 
 <!--
 - 🔭 I’m currently working on ...
