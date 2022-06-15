@@ -1,6 +1,6 @@
 ### Hi there 👋,I'm tntaxin
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=Maskhe&show_icons=true&theme=radical" width="380">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=radsih&show_icons=true&theme=radical" width="380">
 
 - 🔭 甲方划水安全工程师
 - 👯 Java、PHP瞎🐔er审计
@@ -10,17 +10,11 @@
 - 🏊 互联网弄潮儿
 - 💗 激光雨、花手爱好者
 
-公众号：[一个安全研究员](https://mp.weixin.qq.com/s?__biz=MzU5MDI0ODI5MQ==&mid=2247485173&idx=1&sn=382592379713a1b25de598cbebf3b2c8&chksm=fdc066f9cab7efef302b9122ecef9cf4fd23e0bc8feb90ee349db8141b41e8319b8e567cf41a&token=1826292544&lang=zh_CN#rd)
+座右铭：麻了、run
 
-座右铭：做人不要太攀比，要比就比激光雨
-
-人生忠告：别爱我，没结果，除非花手摇过我
+人生忠告：深思熟虑，比啥都来的快。
 
 <!--
-**Maskhe/Maskhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 -  I’m looking to collaborate on ...
